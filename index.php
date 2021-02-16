@@ -9,5 +9,10 @@
 <body>
 	<h4>Coba Git Remote 2</h4>
 	<p>Paragrap Baru</p>
+	<ul>
+		<li>satu</li>
+		<li>dua</li>
+		<li>tiga</li>
+	</ul>
 </body>
 </html>
