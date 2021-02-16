@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h4>Coba Git Remote 2</h4>
+	<p>Paragrap Baru</p>
 </body>
 </html>
